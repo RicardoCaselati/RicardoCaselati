@@ -58,15 +58,14 @@
 <table width="320px">
     <tbody>
         <tr valign="top">
-		 <td width="80px" align="center">
-            <span><strong>MongoDB</strong></span><br>
-            <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" /> </a>
-            </td>
-			
-			<td width="80px" align="center">
-            <span><strong>MySQL</strong></span><br>
+		<td width="80px" align="center">
+            		<span><strong>MongoDB</strong></span><br>
+            		<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" /> </a>
+           	</td>
+		<td width="80px" align="center">
+            		<span><strong>MySQL</strong></span><br>
 			<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" /> </a>
-			 </td>
+		 </td>
         </tr>
       </tbody>
   </table>
@@ -76,9 +75,9 @@
     <tbody>
         <tr valign="top">
 		 <td width="80px" align="center">
-            <span><strong>Docker</strong></span><br>
-            <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" /> </a>
-            </td>
+            		<span><strong>Docker</strong></span><br>
+            		<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" /> </a>
+            	</td>
         </tr>
       </tbody>
   </table>
@@ -88,9 +87,9 @@
     <tbody>
         <tr valign="top">
 		 <td width="80px" align="center">
-            <span><strong>Jest</strong></span><br>
-            <a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" /> </a>
-            </td>
+            		<span><strong>Jest</strong></span><br>
+            		<a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" /> </a>
+            	</td>
         </tr>
       </tbody>
   </table>
@@ -100,9 +99,9 @@
     <tbody>
         <tr valign="top">
 		 <td width="80px" align="center">
-            <span><strong>Figma</strong></span><br>
-            <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" /> </a>
-            </td>
+            		<span><strong>Figma</strong></span><br>
+            		<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" /> </a>
+            	</td>
         </tr>
       </tbody>
   </table>
@@ -111,17 +110,16 @@
  <table width="320px">
     <tbody>
         <tr valign="top">
-		 <td width="80px" align="center">
-            <span><strong>Git</strong></span><br>
-            <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+		<td width="80px" align="center">
+            		<span><strong>Git</strong></span><br>
+            		<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" /> </a>
-            </td>
-			
-			 <td width="80px" align="center">
-            <span><strong>Linux</strong></span><br>
-            <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+            	</td>
+		 <td width="80px" align="center">
+            		<span><strong>Linux</strong></span><br>
+            		<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" /> </a>
-            </td>
+            	</td>
         </tr>
       </tbody>
   </table>
