@@ -16,11 +16,11 @@
         <tr valign="top">
 	 	<td width="80px" align="center">
             		<span><strong>HTML</strong></span><br>
-            		<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"/></a>
+            		<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40"/></a>
             	</td>
 		<td width="80px" align="center">
             		<span><strong>CSS</strong></span><br>
-            		<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" /></a>
+            		<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="80" /></a>
             	</td>
 		<td width="80px" align="center">
             		<span><strong>Bootstrap</strong></span><br>
