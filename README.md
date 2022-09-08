@@ -1,6 +1,8 @@
 ## About
 <p>I am a communicologist graduated in Radio, TV and Video from FIAMFAAM-FMU in São Paulo. A creative guy, passionate about innovation and technology. In 2019 I founded the RCX Agency with the intention of helping small and medium-sized entrepreneurs to strengthen themselves in the digital environment. Since then I work as a Web Developer and I dedicate myself to improving my skills as a Dev and looking for a professional environment that allows me to improve my knowledge and develop myself even more as a Full Stack Developer.</p>
 
+<h6>See my resume by clicking <a href="https://gitconnected.com/ricardocaselati/resume">here</a></h6>
+
 ##  GitHub Stats
 <div align="center">
   <a href="https://github.com/RicardoCaselati">
