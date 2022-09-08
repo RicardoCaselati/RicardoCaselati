@@ -20,7 +20,7 @@
             	</td>
 		<td width="80px" align="center">
             		<span><strong>CSS</strong></span><br>
-            		<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="80" /></a>
+            		<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" /></a>
             	</td>
 		<td width="80px" align="center">
             		<span><strong>Bootstrap</strong></span><br>
