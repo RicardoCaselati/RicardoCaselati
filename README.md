@@ -73,6 +73,7 @@
   </table>
 
 ## Devops
+<p>I have experience creating images, running locally and Docker Compose.</p>
 <table width="320px">
     <tbody>
         <tr valign="top">
