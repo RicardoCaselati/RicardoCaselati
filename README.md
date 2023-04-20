@@ -1,5 +1,5 @@
 ## About
-<p>I am a communicologist graduated in Radio, TV and Video from FIAMFAAM-FMU in São Paulo. A creative guy, passionate about innovation and technology. In 2019 I founded the RCX Agency with the intention of helping small and medium-sized entrepreneurs to strengthen themselves in the digital environment. Since then I work as a Web Developer and I dedicate myself to improving my skills as a Dev and looking for a professional environment that allows me to improve my knowledge and develop myself even more as a FrontEnd Developer.</p>
+<p>I'm a FullStack developer and I have experience in #Node.JS, #React.JS, #Bootstrap, #SequelizeORM, #JavaScript, with #MySQL and #MongoDB databases. In 2019, I founded Agência RCX with the intention of helping entrepreneurs to become stronger in the digital environment. This is how my passion for programming came about: uniting the desire to serve with the desire to solve real problems through technology. So, in 2022, I started my FullStack Web Development studies at Trybe, where I had the opportunity to develop more than 30 projects.</p>
 
 <h6>See my resume by clicking <a href="https://gitconnected.com/ricardocaselati/resume">here</a></h6>
 
